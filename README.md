@@ -14,4 +14,8 @@ debugging
 SQLite DB
 Create a TODO List app
 pytest- Unit : starting with "test_"
+
+In **Typescript Learning:**
+Learn Typescript basic like: 
+Type annotations, Tuples, Type in Objects, property, Interfaces, Union, Intersection, Type alias, Never Type, Classes, Implements, Generics, Any type
  
